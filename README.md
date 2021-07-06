@@ -13,7 +13,7 @@ You can navigate to last or the first iteration by pressing the right click resp
 
 # Draw graph by using the file 'data.txt'
 
-You can enter the graph informations in a file text called 'data.txt', the line number represents the position of the node, the first number is the node ID, the last numbers are the neighbors IDs.
+You can enter the graph informations in a file text called 'data.txt', that you must add at the same repository as the main program, the line number represents the position of the node, the first number is the node ID, the last numbers are the neighbors IDs.
 
 Let's take for example this graph
 
