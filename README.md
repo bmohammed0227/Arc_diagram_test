@@ -37,4 +37,4 @@ The result will be like that
 
 _______
 
-You can find both Linux and Windows versions on the release section.
+You can find both Linux and Windows versions on the [release](https://github.com/bmohammed0227/Arc_diagram_test/releases) section.
